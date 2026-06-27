@@ -1,0 +1,6 @@
+{
+  "name": "AquaGo",
+  "description": "Drinking water delivery platform in Pune, India, with multi-language support (English, Hindi, Marathi) for Customers, Suppliers, and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
